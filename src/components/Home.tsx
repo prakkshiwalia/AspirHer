@@ -8,7 +8,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <div className="text-center mb-16">
         <h1 className="text-5xl font-bold text-gray-800 mb-6">
-          Welcome to <span className="text-purple-600">AspirHer</span>
+          Welcome to <span className="text-purple-600">AspireHer</span>
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Empowering women in technology through community, mentorship, and resources.
